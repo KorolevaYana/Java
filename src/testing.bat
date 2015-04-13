@@ -1,0 +1,3 @@
+javac -cp .;ParallelMapperTest.jar ru\ifmo\ctddev\koroleva\mapper\ParallelMapperImpl.java 
+javac -cp .;ParallelMapperTest.jar ru\ifmo\ctddev\koroleva\concurrent\IterativeParallelism.java 
+ "C:\program files\java\jdk1.8.0_31\bin\java" -cp "ParallelMapperTest.jar;hamcrest-core-1.3.jar;junit-4.11.jar;quickcheck-0.6.jar;." info.kgeorgiy.java.advanced.mapper.Tester list ru.ifmo.ctddev.koroleva.mapper.ParallelMapperImpl,ru.ifmo.ctddev.koroleva.concurrent.IterativeParallelism %1

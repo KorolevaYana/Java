@@ -1,0 +1,2 @@
+Class-Path: ImplementorTest.jar
+Main-Class: ru.ifmo.ctddev.koroleva.implementor.Implementor
